@@ -1,0 +1,7 @@
+Description for limitations that could be improved with more time.
+
+ - I didn't store every proposals for extending map, just storing current extending proposal.
+It can be done by using mapping data.
+ - I didn't implement events about approvements for proposals.
+
+Thank you so much.
